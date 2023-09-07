@@ -1,1 +1,2 @@
 # Analyzing-Credit-Card-Spending-Habits-in-India
+In this SQL project, I explored and analyzde credit card spending habits in India using a dataset containing transaction records from various credit card holders. The dataset will include information such as transaction amounts, transaction dates, merchant details, cardholder demographics, and more. My goal is to gain valuable insights into how people in India use their credit cards and identify trends and patterns in spending behavior.
